@@ -13,8 +13,8 @@ My journey in the military has led me to develop a passion for Cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a security audit*                      | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Conduct a security audit*                      | <a href="">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
